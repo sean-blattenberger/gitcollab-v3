@@ -11,6 +11,7 @@ const arrayOfObjects = [
       name: "Alex",
       age: "19"
     }
+
 ];
 
 const arrayOfObjects2 = [
@@ -26,4 +27,4 @@ const arrayOfObjects2 = [
       name: "Alex",
       age: "19"
     }
-];
+  ];
