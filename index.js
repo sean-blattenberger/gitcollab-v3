@@ -11,9 +11,10 @@ const arrayOfObjects = [
       name: "Alex",
       age: "19"
     }
-  ];
 
-  const arrayOfDudes = [
+];
+
+const arrayOfObjects2 = [
     {
       name: "Sean",
       age: "28"
